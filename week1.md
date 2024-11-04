@@ -2,18 +2,12 @@ Task 3:
 Continuing Professional Development is a combination of ideas, techniques, and approaches that are designed to help you manage and enhance your growth, abilities and learning as a professional. The field of computer science is changing rapidly, and computer professionals should keep up with recent advancements in the field.
 In groups (4-5 students), on a scale of (high, medium, and low) evaluate each one of the following opportunities for Continuing Professional Development:
 
-•	A data scientist trying to learn web development.
+•	A data scientist trying to learn web development.(High):
 
-•	A data scientist trying to switch to machine learning engineer by learning how to code in pytorch.
+•	A data scientist trying to switch to machine learning engineer by learning how to code in pytorch.(Low):
+.
+•	A data scientist applying for a master’s in finance.(Medium):
 
-•	A data scientist applying for a master’s in finance.
-Answer: 
-
- •	A data scientist trying to switch to machine learning engineer by learning how to code in pytorch.
- 
- •	A data scientist trying to learn web development.
- 
- •	A data scientist applying for a master’s in finance.
 
  Task 4:
 
