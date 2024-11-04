@@ -33,5 +33,5 @@ Discuss the following situations and evaluate if the computer professionals have
 
 •	An AI team has received two similar datasets from two clients to build a prediction model. The team decided to train one model in both datasets without telling the clients that their dataset is being used to train other models.
 
-(lack of integrity)
+(lack of integrity) The team displayed poor integrity and ethics toward the client by misusing the data provided to them.
 
