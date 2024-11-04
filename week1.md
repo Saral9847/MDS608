@@ -5,9 +5,11 @@ In groups (4-5 students), on a scale of (high, medium, and low) evaluate each on
 •	A data scientist trying to learn web development.
 (Low):
 
+
 •	A data scientist trying to switch to machine learning engineer by learning how to code in pytorch.
 (High):
 .
+
 •	A data scientist applying for a master’s in finance.
 (Medium):
 
